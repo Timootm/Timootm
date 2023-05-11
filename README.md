@@ -1,7 +1,7 @@
 ### Hallo, mein Name ist Timoo👋
 ## Ich bin 14 jahre alt
 
-  <a href="https://www.instagram.com/mccoderpy/" target="_blank">
+  <a href="https://www.instagram.com/timoo140/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
   </a>
 </p>
