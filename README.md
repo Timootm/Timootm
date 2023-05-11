@@ -11,9 +11,9 @@
 </p>
 
 <!--
-​![​status​](https://dev.discordprofiles.me/badge/status/693088765333471284) 
-​![​playing​](https://dev.discordprofiles.me/badge/playing/693088765333471284) 
-[![​spotify​](https://dev.discordprofiles.me/badge/spotify/693088765333471284)](https://dev.discordprofiles.me/openspotify/693088765333471284)
+​![​status​](https://dev.discordprofiles.me/badge/status/1078242409495932969) 
+​![​playing​](https://dev.discordprofiles.me/badge/playing/1078242409495932969) 
+[![​spotify​](https://dev.discordprofiles.me/badge/spotify/1078242409495932969)](https://dev.discordprofiles.me/openspotify/1078242409495932969)
 
 Here are some ideas to get you started:
 
