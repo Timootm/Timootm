@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
     <center>
       <a>
-        <img src="https://discord.c99.nl/widget/theme-1/1078242409495932969.png" style='padding: 5px'>
+        <img src="https://discord.c99.nl/widget/theme-1078242409495932969.png" style='padding: 5px'>
       </a>
     </center>
   
