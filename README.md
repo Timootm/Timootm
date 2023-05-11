@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   - Send me a Direct Message on [Discord](https://discord.com): [`Timoo™#3275`](https://discord.com/users/1078242409495932969)
 
     <center>
-      <a href='https://discord.gg/VAR8sutF'>
-        <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
+      <a>
+        <img src="https://discord.c99.nl/widget/theme-1/1078242409495932969.png" style='padding: 5px'>
       </a>
     </center>
   
