@@ -8,10 +8,6 @@
   <a href="https://www.instagram.com/mccoderpy/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
   </a>
-  <a href="https://guilded.gg/u/mccoder-py" target="_blank">
-    <img src="https://img.shields.io/badge/-Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white" alt="Send me a DM on Guilded.
-PS: Discord still better 😜 Guilded is just a copy with more features 🙃">
-  </a>
 </p>
 
 <!--
@@ -19,8 +15,6 @@ PS: Discord still better 😜 Guilded is just a copy with more features 🙃">
 ​![​playing​](https://dev.discordprofiles.me/badge/playing/693088765333471284) 
 ​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/693088765333471284) 
 [![​spotify​](https://dev.discordprofiles.me/badge/spotify/693088765333471284)](https://dev.discordprofiles.me/openspotify/693088765333471284)
-
-**mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,7 +31,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: `he`/`him`
-- 🔭 I’m currently working on: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) and [instatus.py](https://github.com/instatus-py/instatus.py)
 
 - 📫 How to reach me: 
   
