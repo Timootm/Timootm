@@ -2,7 +2,7 @@
 #### I'm a 18 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [python](https://python.org).
 
 <p align="center">
-  <a href="https://discord.com/users/693088765333471284" target="_blank">
+  <a href="https://discord.com/users/1078242409495932969" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
   </a>
   <a href="https://www.instagram.com/mccoderpy/" target="_blank">
