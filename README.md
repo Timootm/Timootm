@@ -37,8 +37,7 @@ Here are some ideas to get you started:
       </a>
     </center>
   
-  - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
-  - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
+  - Send me a Direct Message on [Instagram](https://instagram.com): [`@timoo140`](https://instagram.com/timoo140)
 
 ### Spotify
 
