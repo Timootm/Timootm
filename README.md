@@ -13,7 +13,6 @@
 <!--
 ​![​status​](https://dev.discordprofiles.me/badge/status/693088765333471284) 
 ​![​playing​](https://dev.discordprofiles.me/badge/playing/693088765333471284) 
-​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/693088765333471284) 
 [![​spotify​](https://dev.discordprofiles.me/badge/spotify/693088765333471284)](https://dev.discordprofiles.me/openspotify/693088765333471284)
 
 Here are some ideas to get you started:
@@ -46,18 +45,7 @@ Here are some ideas to get you started:
   - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
 
 ### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&redirect=true)
 
-### 🏆 GitHub Profile Trophy:
-<center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=mccoderpy&column=8&theme=discord&no-frame=true&no-bg=true"/>
-  </a>
-</center>
-
-
-### 📊 GitHub Stats:
-![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
 
 <p align="center" >
      <img src="https://komarev.com/ghpvc/?username=mccoderpy&style=flat" alt=mccoderpy>
