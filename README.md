@@ -1,5 +1,6 @@
-### Hallo, mein Name ist Timoo👋
-## Ich bin 14 jahre alt
+### Hi there, my name is Timoo👋
+##  I'm a 14 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [lua](https://lua.org/).
+
 
   <a href="https://www.instagram.com/timoo140/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
